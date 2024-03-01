@@ -2,6 +2,8 @@
 
 ![Video Preview](./walkthrough.mp4)
 
+![Compressed Video](./demo-video-2.mp4)
+
 # ChatGPT Writer Take-Home Coding Assignment
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
